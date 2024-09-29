@@ -6,7 +6,7 @@ Este repositório contém o código e os dados para o projeto multi agentes de I
 
 ## Dados
 
-Os dados utilizados neste projeto foram criados apartir do ChatGPT, então se trata de dados ficticios.
+Os dados utilizados neste projeto foram criados apartir do ChatGPT, então se trata de dados ficticios, os dados se encontram no dir data/input/transacoes_banco_outubro_2024.csv
 
 ## Como executar o código
 
