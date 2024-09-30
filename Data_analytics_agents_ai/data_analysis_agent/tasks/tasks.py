@@ -1,4 +1,3 @@
-# tasks.py
 from crewai import Task
 from data_analysis_agent.agents.agents import Analista_de_engenharia_de_dados, analista_de_dados, Revisor_de_email
 
